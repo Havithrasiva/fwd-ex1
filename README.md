@@ -224,11 +224,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
-![alt text](<../Screenshot 2026-11-03 142416.png>)
-![alt text](<../Screenshot 2026-11-03 142501.png>)
-![alt text](<../Screenshot 2026-11-03 142514.png>)
-![alt text](<../Screenshot 2026-11-03 142522.png>)
 
+![alt text](<Screenshot 2026-11-03 142416.png>)
 
 
 ## RESULT:
